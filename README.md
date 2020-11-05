@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Learn a lot of new technologies
 - ⚡ Fun fact: I love to sing and play video games 🕹️
 
-### Spotify Playing 🎧
-
 ### Connect with me:
 [<img align="left" alt="andresbelo12 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="andresbelo12 | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
