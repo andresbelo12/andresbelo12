@@ -2,7 +2,6 @@
 
 ## I'm a Student, Teacher, Developer, and Gamer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn a lot of new technologies
