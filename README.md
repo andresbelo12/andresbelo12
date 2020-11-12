@@ -10,9 +10,13 @@
 ### Connect with me:
 [<img align="left" alt="andresbelo12 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="andresbelo12 | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="andresbelo12 | Resume" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
-<br />
 
+
+### Resume:
+[<img align="left" alt="andresbelo12 | Resume" width="48px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
+<br />
+[<img align="left" alt="andresbelo12 | Linkedin" width="48px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/go/go.png" />][github]
@@ -45,3 +49,5 @@
 [telegram]: https://t.me/andresbelo12
 [github]: https://github.com/andresbelo12
 [resume]: https://drive.google.com/file/d/1EA6MoImQARGvYBLSCMm351Ux3IQC2HUy/view?usp=sharing
+[linkedin]: www.linkedin.com/in/jandreslopez12
+
