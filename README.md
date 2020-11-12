@@ -10,7 +10,7 @@
 ### Connect with me:
 [<img align="left" alt="andresbelo12 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="andresbelo12 | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
+[<img align="left" alt="andresbelo12 | Resume" width="22px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
 <br />
 
 ### Languages and Tools:
@@ -44,3 +44,4 @@
 [whatsapp]: https://wa.me/+57-3024453192
 [telegram]: https://t.me/andresbelo12
 [github]: https://github.com/andresbelo12
+[resume]: https://drive.google.com/file/d/1EA6MoImQARGvYBLSCMm351Ux3IQC2HUy/view?usp=sharing
