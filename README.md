@@ -11,7 +11,7 @@
 [<img align="left" alt="andresbelo12 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="andresbelo12 | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 <br />
-<br />
+
 ### Resume:
 [<img align="left" alt="andresbelo12 | Resume" width="48px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
 [<img align="left" alt="andresbelo12 | Linkedin" width="48px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
