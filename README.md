@@ -13,7 +13,7 @@
 <br />
 
 ### Resume:
-[<img align="left" alt="andresbelo12 | Resume" width="48px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
+[<img align="left" alt="andresbelo12 | Resume" width="46px" src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png" />][resume]
 [<img align="left" alt="andresbelo12 | Linkedin" width="48px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 <br />
 <br />
@@ -49,5 +49,5 @@
 [telegram]: https://t.me/andresbelo12
 [github]: https://github.com/andresbelo12
 [resume]: https://drive.google.com/file/d/1EA6MoImQARGvYBLSCMm351Ux3IQC2HUy/view?usp=sharing
-[linkedin]: www.linkedin.com/in/jandreslopez12
+[linkedin]: https://www.linkedin.com/in/jandreslopez12/
 
