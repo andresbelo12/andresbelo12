@@ -48,6 +48,6 @@
 [whatsapp]: https://wa.me/+57-3024453192
 [telegram]: https://t.me/andresbelo12
 [github]: https://github.com/andresbelo12
-[resume]: https://drive.google.com/file/d/1EA6MoImQARGvYBLSCMm351Ux3IQC2HUy/view?usp=sharing
+[resume]: https://drive.google.com/file/d/19iL17RqPujjNXAkdCGGn_La7kFyCHpvG/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/jandreslopez12/
 
