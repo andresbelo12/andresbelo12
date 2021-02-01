@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Learn a lot of new technologies
+- 🥅 2021 Goals: Learn a lot of new technologies
 - ⚡ Fun fact: I love to sing and play video games 🕹️
 
 ### Connect with me:
